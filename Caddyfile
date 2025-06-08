@@ -1,0 +1,4 @@
+:80
+
+# Proxy al servicio backend de OpenSign
+reverse_proxy localhost:8080
